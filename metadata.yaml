@@ -15,7 +15,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/33253
   - agent_name: Newell, Peter
     alias: Newell, P. S. (Peter S.)
-    birthdate: &id001 1862
+    birthdate: 1862
     deathdate: 1924
     gutenberg_agent_id: '7143'
     url: http://www.gutenberg.org/2009/agents/7143
@@ -29,12 +29,14 @@ covers:
 creator:
   author:
     agent_name: Bangs, John Kendrick
-    birthdate: *id001
+    birthdate: 1862
     deathdate: 1922
     gutenberg_agent_id: '979'
     url: http://www.gutenberg.org/2009/agents/979
     wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39757#Half-Hours-with-Jimmieboy
 gutenberg_issued: '2012-05-22'
 gutenberg_type: Text
 identifiers:
