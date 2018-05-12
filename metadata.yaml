@@ -1,0 +1,59 @@
+_repo: Half-Hours-with-Jimmieboy_39757
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Richards, J. T.
+    gutenberg_agent_id: '40206'
+    url: http://www.gutenberg.org/2009/agents/40206
+  - agent_name: Ver Beck, Frank
+    aliases:
+    - Verbeck, Frank
+    - Beck, Frank Ver
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '33253'
+    url: http://www.gutenberg.org/2009/agents/33253
+  - agent_name: Newell, Peter
+    alias: Newell, P. S. (Peter S.)
+    birthdate: &id001 1862
+    deathdate: 1924
+    gutenberg_agent_id: '7143'
+    url: http://www.gutenberg.org/2009/agents/7143
+  - agent_name: Johnson, Charles Howard
+    alias: Johnson, C. H. (Charles Howard)
+    gutenberg_agent_id: '40205'
+    url: http://www.gutenberg.org/2009/agents/40205
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: *id001
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2012-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, American'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+tableOfContents: Christmas Eve at Jimmieboy's -- The dwarf and the dude giant -- Jimmieboy's
+  dream poetry -- A subterranean mutiny -- Jimmieboy in the library -- Jimmieboy's
+  snowman -- The Bicyclopædia Bird -- Giant the Jack killer -- Jimmieboy and the fireworks
+  -- Jimmieboy's photograph -- Jimmieboy and the blank-book -- Jimmieboy and the comet
+  -- Jimmieboy and Jack Frost -- Jimmieboy and the gas-stove -- In the heart of Frostland
+  -- The end of the story.
+title: Half-Hours with Jimmieboy
+url: http://www.gutenberg.org/ebooks/39757
